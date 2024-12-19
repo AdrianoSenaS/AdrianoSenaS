@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🎧 Bem-vindo ao Meu Perfil!
 
-<!--
-**AdrianoSenaS/AdrianoSenaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Música que estou ouvindo agora:**  
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zb2twqqnydchieeq2b2m4sjxuu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zb2twqqnydchieeq2b2m4sjxuu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## Meu Perfil no Spotify
+Confira meu perfil no Spotify: [Acesse meu perfil no Spotify](https://open.spotify.com/user/31zb2twqqnydchieeq2b2m4sjxuu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Sobre Mim
+👋 Olá! Sou um entusiasta de tecnologia apaixonado por música e programação. Aqui você encontrará projetos que combinam criatividade e inovação.  
+
+- 💻 Desenvolvendo soluções para a web e mobile.  
+- 🎶 Explorando novas playlists enquanto codifico.  
+- 🌟 Sempre aprendendo algo novo!  
+
+---
+
+## 🛠️ Tecnologias
+- **Linguagens**: C#,  JavaScript  
+- **Frameworks**: MAUI, ASP.NET, React  
+- **Ferramentas**: Docker
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoSenaS&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSenaS&layout=compact&theme=radical" alt="Linguagens mais usadas" width="400" />
+</div>
+
+---
+
+
+---
+
+## 🚀 Minhas Contribuições
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoSenaS&theme=github" alt="Gráfico de Contribuições" />
+</div>
