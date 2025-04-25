@@ -24,7 +24,7 @@ Confira meu perfil no Spotify: [Acesse meu perfil no Spotify](https://open.spoti
 
 ## 🛠️ Tecnologias
 - **Linguagens**: C#, JavaScript, TypeScript  
-- **Frameworks**: React-Native, ASP.NET  
+- **Frameworks**: React, React-Native, ASP.NET  
 - **Ferramentas**: Visual Studio Code, Visual Studio, GitHub, Spotify
 
 ---
