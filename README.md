@@ -57,7 +57,7 @@ Olá! Eu sou **Adriano Sena**, um desenvolvedor full-stack apaixonado por tecnol
 | ------------------------------ | -------------------------------------------- | ----------------------------------------- |
 | **AS-XSTREAM-IPTV**            | Player IPTV mobile simples                  | [GitHub](https://github.com/AdrianoSenaS/AS-XSTREAM-IPTV)             |
 | **ASMedia-Master**             | Gerenciador e painel de mídia Em desenvolvimento               | [GitHub](https://github.com/AdrianoSenaS/ASMedia-Master)              |
-| **ASIptvServer.M3U**           | Servidor IPTV para M3U Beta                      | [GitHub](https://github.com/AdrianoSenaS/ASIptvServer.M3U)            |
+| **ASIptvServer.M3U**           | Serviço IPTV para M3U Beta                      | [GitHub](https://github.com/AdrianoSenaS/ASIptvServer.M3U)            |
 | **ASIptvServer.Naming**        | Serviço de naming para IPTV Beta                | [GitHub](https://github.com/AdrianoSenaS/ASIptvServer.Naming)         |
 | **Site Pessoal**               | Meu site profissional e portfólio             | [Visitar](http://adrianosena.dev.br/)                                 |
 
