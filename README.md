@@ -92,9 +92,7 @@ Olá! Eu sou **Adriano Sena**, um desenvolvedor full-stack apaixonado por tecnol
   <a href="https://www.linkedin.com/in/adriano-sena-silva-a8605622a/">
     <img src="https://img.shields.io/badge/LinkedIn-Adriano-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.asskymeet.com/adriano.sena.silva">
-    <img src="https://img.shields.io/badge/AsSkyMeet-@adriano.sena.silva-8b5cf6?logo=&logoColor=white" alt="AsSkyMeet" />
-  </a>
+ 
 </div>
 
 ---
