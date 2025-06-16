@@ -92,7 +92,9 @@ Olá! Eu sou **Adriano Sena**, um desenvolvedor full-stack apaixonado por tecnol
   <a href="https://www.linkedin.com/in/adriano-sena-silva-a8605622a/">
     <img src="https://img.shields.io/badge/LinkedIn-Adriano-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- 
+ <a href="mailto:dry@adriano.sena.dev.br">
+    <img src="https://img.shields.io/badge/Email-dry@adriano.sena.dev.br-blue?logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </div>
 
 ---
